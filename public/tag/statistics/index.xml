@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics | Data Analytics Lab</title>
+    <link>https://analytics.unist.ac.kr/tag/statistics/</link>
+      <atom:link href="https://analytics.unist.ac.kr/tag/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Mar 2020 19:03:27 +0900</lastBuildDate>
+    <image>
+      <url>https://analytics.unist.ac.kr/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Statistics</title>
+      <link>https://analytics.unist.ac.kr/tag/statistics/</link>
+    </image>
+    
+    <item>
+      <title>Household Profiling</title>
+      <link>https://analytics.unist.ac.kr/project/household-profiling/</link>
+      <pubDate>Tue, 10 Mar 2020 19:03:27 +0900</pubDate>
+      <guid>https://analytics.unist.ac.kr/project/household-profiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixture Gases Classification</title>
+      <link>https://analytics.unist.ac.kr/project/mixture-gases-classification/</link>
+      <pubDate>Tue, 10 Mar 2020 19:03:27 +0900</pubDate>
+      <guid>https://analytics.unist.ac.kr/project/mixture-gases-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stowage Plan for Container Ships</title>
+      <link>https://analytics.unist.ac.kr/project/stowage-plan-for-container-ships/</link>
+      <pubDate>Tue, 10 Mar 2020 19:03:27 +0900</pubDate>
+      <guid>https://analytics.unist.ac.kr/project/stowage-plan-for-container-ships/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traffic Congestion Propagation</title>
+      <link>https://analytics.unist.ac.kr/project/traffic-congestion-propagation/</link>
+      <pubDate>Tue, 10 Mar 2020 19:03:27 +0900</pubDate>
+      <guid>https://analytics.unist.ac.kr/project/traffic-congestion-propagation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

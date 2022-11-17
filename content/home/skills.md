@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
-subtitle:
+title: "Research Areas"
+subtitle: "Data Analytics Lab pursues leading-edge research in the following areas:"
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
+  - description: 
+    icon: industry
+    icon_pack: fas
+    name: Artificial Intelligence in Quality Engineering
+  - description: 
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: System Monitoring & Anomaly Detection
+  - description: 
+    icon: object-ungroup
     icon_pack: fas
-    name: Photography
+    name: Sequential Learning, Large-scale Calibration, and Uncertainty Quantification
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
