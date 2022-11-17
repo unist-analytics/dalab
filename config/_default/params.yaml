@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -97,6 +97,7 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
+
 
 # Extensions
 

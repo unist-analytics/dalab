@@ -24,17 +24,19 @@ content:
   #     # Enable CAPTCHA challenge to reduce spam?
   #     captcha: false
 
+
+     
   # Contact details (edit or remove options as required)
-  # email: test@example.org
-  # phone: 888 888 88 88
-  # address:
-  #   street: 450 Serra Mall
-  #   city: Stanford
+  email: sungil.kim@unist.ac.kr
+  phone: 052.217.3195
+  address:
+     street: 112 Bldg, 301-8, 50 UNIST-gil
+     city: Ulsan
   #   region: CA
-  #   postcode: '94305'
-  #   country: United States
-  #   country_code: US
-  # coordinates:
+     postcode: '44919'
+     country: Republic of Korea
+     country_code: KR
+  #coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
