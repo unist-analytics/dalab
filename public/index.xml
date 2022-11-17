@@ -362,7 +362,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-173982456&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-851796243&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -372,7 +372,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-173982456&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-851796243&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -916,17 +916,17 @@ $$&lt;/p&gt;
     
     <item>
       <title>Maritime Anomaly Detection</title>
-      <link>https://analytics.unist.ac.kr/project/example/</link>
+      <link>https://analytics.unist.ac.kr/project/maritime-anomaly-detection/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://analytics.unist.ac.kr/project/example/</guid>
+      <guid>https://analytics.unist.ac.kr/project/maritime-anomaly-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maritime Anomaly Detection</title>
-      <link>https://analytics.unist.ac.kr/project/maritime-anomaly-detection/</link>
+      <link>https://analytics.unist.ac.kr/project/maritime/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://analytics.unist.ac.kr/project/maritime-anomaly-detection/</guid>
+      <guid>https://analytics.unist.ac.kr/project/maritime/</guid>
       <description></description>
     </item>
     
