@@ -3,7 +3,7 @@
 
 title: "Stowage Plan for Container Ships"
 summary: ""
-authors: [jo,admin]
+authors: [oh,admin]
 tags: [Statistics,Optimization]
 categories: []
 date: 2020-03-10T19:03:27+09:00

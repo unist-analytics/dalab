@@ -3,7 +3,7 @@
 
 title: "Traffic Congestion Propagation"
 summary: ""
-authors: [jyl,admin]
+authors: [jyl,oh,kwak,koo,admin]
 tags: [Statistics,Deep Learning]
 categories: []
 date: 2020-03-10T19:03:27+09:00

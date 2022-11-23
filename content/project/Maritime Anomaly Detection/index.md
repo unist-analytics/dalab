@@ -1,7 +1,7 @@
 ---
 title: Maritime Anomaly Detection
 summary: 
-authors: [oh,park,admin]
+authors: [oh,kwonin,park,admin]
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'

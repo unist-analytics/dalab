@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ji-In Kwak
+name: JiIn Kwak
 
 # Username (this should match the folder name)
 authors:
