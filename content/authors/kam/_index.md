@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Industrial Statistics, Quality Engineering and Management, Machine learning and Deep learning, Unsupervised learning.
+bio: 
 
 interests:
 - Industrial Statistics

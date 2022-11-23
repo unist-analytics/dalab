@@ -1,13 +1,14 @@
 ---
-title: Real-Time Detection for Changing-State Active Galactic Nucleus (AGN) 
-summary: 
+title: Identifying Changing-State in Light Curves 
+summary: Real-Time Detection for Changing-State Active Galactic Nucleus (AGN)
 authors: [kam,jitae,admin]
 tags:
   - Deep Learning
+  - Astronomy
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -18,9 +19,9 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
+url_code: 
+url_pdf: 
+url_slides: 
 url_video: 
 
 # Slides (optional).

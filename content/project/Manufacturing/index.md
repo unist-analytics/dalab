@@ -1,9 +1,10 @@
 ---
-title: Domain Knowledge-Informed Functional Outlier Detection
-summary: 
-authors: [moon,Kim,hee,jitae,admin]
+title: Quality Engineering
+summary: Domain Knowledge-Informed Functional Outlier Detection
+authors: [jwh,kj,hee,jitae,admin]
 tags:
   - Deep Learning
+  - Manufacturing
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -18,10 +19,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: 
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: 
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -1,7 +1,7 @@
 ---
-title: Real-Time Risk Assessment of Thyroid Function Abnormality using Irregularly-Sampled Heart Rate Records
-summary: 
-authors: [koh,oh,kam,koo,admin]
+title: Real-Time Health Risk Assessment
+summary: Real-Time Risk Assessment of Thyroid Function Abnormality using Irregularly-Sampled Heart Rate Records
+authors: [kh,oh,kam,koo,admin]
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
