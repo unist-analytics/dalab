@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Traffic Congestion Propagation"
-summary: ""
+title: Traffic Congestion Propagation
+summary: 
 authors: [jyl,oh,kwak,koo,admin]
 tags: [Statistics,Deep Learning]
 categories: []

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Household Profiling"
-summary: ""
+summary: 
 authors: [nw,admin]
 tags: [Statistics,Optimization]
 categories: []

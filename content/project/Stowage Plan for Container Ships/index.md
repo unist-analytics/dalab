@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Stowage Plan for Container Ships"
-summary: ""
+title: Stowage Plan for Container Ships
+summary: 
 authors: [oh,admin]
 tags: [Statistics,Optimization]
 categories: []
