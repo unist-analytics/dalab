@@ -32,10 +32,11 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
-  columns: '2'
+  view: Compact
+  columns: '1'
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+<!---
+ {{% callout note %}}
+ Quickly discover relevant content by [filtering publications](./publication/).
+ {{% /callout %}}
+-->

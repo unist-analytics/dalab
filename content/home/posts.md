@@ -8,7 +8,7 @@ active: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
 title: Recent Posts
 subtitle:
@@ -35,5 +35,5 @@ content:
 design:
   # Choose a view for the listings:
   view: compact
-  columns: '2'
+  columns: '1'
 ---

@@ -7,5 +7,29 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*The International Journal of Advanced Manufacturing Technology*"
+
+
+links: 
+- name: 'The International Journal of Advanced Manufacturing Technology'
+#   url: 
+url_pdf: ''
+url_code: 
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  placement: 1
+  caption: 
+  focal_point: Left
+  preview_only: true
 ---
+
 
