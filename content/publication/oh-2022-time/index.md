@@ -1,6 +1,6 @@
 ---
 title: "Time Delay Estimation of Traffic Congestion Propagation due to Accidents based on Statistical Causality"
-date: 2023-01-01
+date: 2023-02-01
 # publishDate: 2022-04-25T12:08:57.188818Z
 authors: [YongKyung Oh, JiIn Kwak, JuYeong Lee, and Sungil Kim (2023), Electronic Research Archive]
 
