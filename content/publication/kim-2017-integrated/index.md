@@ -1,18 +1,18 @@
 ---
 title: "An integrated holistic model of a complex process"
-date: 2017-01-01
-publishDate: 2020-03-07T14:11:35.124324Z
-authors: ["Heeyoung Kim", "Sungil Kim", "Jianxin Deng", "Jye-Chyi Lu", "Kan Wang", "Chuck Zhang", "Martha A Grover", "Ben Wang"]
+date: 2017-07-19
+#publishDate: 2020-03-07T14:11:35.124324Z
+authors: [Heeyoung Kim, Sungil Kim, Jian Deng, Jye-Chyi Lu, K. Wang, C. Zhang, Martha A. Grover, and B. Wang (2017), The International Journal of Advanced Manufacturing Technology]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*The International Journal of Advanced Manufacturing Technology*"
+#publication: "*The International Journal of Advanced Manufacturing Technology*"
 
 
 links: 
-- name: 'The International Journal of Advanced Manufacturing Technology'
+#- name: 'The International Journal of Advanced Manufacturing Technology'
 #   url: 
-url_pdf: ''
+url_pdf: https://link.springer.com/article/10.1007/s00170-016-9088-0
 url_code: 
 url_dataset: ''
 url_poster: ''

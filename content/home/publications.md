@@ -10,7 +10,7 @@ headless: true
 weight: 35
 
 title: Publications
-subtitle: List of all publications by the Data Analytics Lab
+subtitle: 
 
 content:
   # Filter on criteria

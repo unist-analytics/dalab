@@ -2,9 +2,7 @@
 title: "Quantifying Incident Impacts and Identifying Influential Factors on Urban Traffic Networks"
 date: 2022-01-01
 publishDate: 2022-04-25T12:08:57.188818Z
-authors: ["JuYeong Lee", "JiIn Kwak", "YongKyung Oh", "Sungil Kim"]
-
-
+authors: [JuYeong Lee, JiIn Kwak, YongKyung Oh and Sungil Kim (2022), "Transportmetrica B : Transport Dynamics"]
 
 
 # Publication type.
@@ -17,13 +15,13 @@ abstract:
 
 featured: false
 
-publication: "*Transportmetrica B: Transport Dynamics*"
+# publication: "*Transportmetrica B: Transport Dynamics*"
 
 
 links: 
-- name: 'Transportmetrica B: Transport Dynamics'
+# - name: ''
 #   url: 
-url_pdf: ''
+url_pdf: https://www.tandfonline.com/doi/abs/10.1080/21680566.2022.2063205
 url_code: 
 url_dataset: ''
 url_poster: ''

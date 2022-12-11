@@ -5,7 +5,7 @@
     <link>https://analytics.unist.ac.kr/publication/</link>
       <atom:link href="https://analytics.unist.ac.kr/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://analytics.unist.ac.kr/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Multichannel Convolution Neural Network for Gas Mixture Classification</title>
       <link>https://analytics.unist.ac.kr/publication/oh-2022-multi/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/oh-2022-multi/</guid>
       <description></description>
     </item>
@@ -29,18 +29,18 @@
     </item>
     
     <item>
-      <title>Maximum feasibility estimation</title>
-      <link>https://analytics.unist.ac.kr/publication/kim-2021-maximum/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://analytics.unist.ac.kr/publication/kim-2021-maximum/</guid>
+      <title>Multi-channel Convolution Neural Network for Gas Mixture Classification</title>
+      <link>https://analytics.unist.ac.kr/publication/oh-2021-multi/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://analytics.unist.ac.kr/publication/oh-2021-multi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multi-channel Convolution Neural Network for Gas Mixture Classification</title>
-      <link>https://analytics.unist.ac.kr/publication/oh-2021-multi/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://analytics.unist.ac.kr/publication/oh-2021-multi/</guid>
+      <title>Maximum feasibility estimation</title>
+      <link>https://analytics.unist.ac.kr/publication/kim-2021-maximum/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://analytics.unist.ac.kr/publication/kim-2021-maximum/</guid>
       <description></description>
     </item>
     
@@ -61,25 +61,25 @@
     </item>
     
     <item>
-      <title>Maritime anomaly detection based on VAE-CUSUM monitoring system</title>
-      <link>https://analytics.unist.ac.kr/publication/kim-2020-maritime/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://analytics.unist.ac.kr/publication/kim-2020-maritime/</guid>
+      <title>Multiresolution spatial generalized linear mixed model for integrating multi-fidelity spatial count data without common identifiers between data source</title>
+      <link>https://analytics.unist.ac.kr/publication/kim-2020-multiresolution/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://analytics.unist.ac.kr/publication/kim-2020-multiresolution/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multiresolution spatial generalized linear mixed model for integrating multi-fidelity spatial count data without common identifiers between data source</title>
-      <link>https://analytics.unist.ac.kr/publication/kim-2020-multiresolution/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://analytics.unist.ac.kr/publication/kim-2020-multiresolution/</guid>
+      <title>Maritime anomaly detection based on VAE-CUSUM monitoring system</title>
+      <link>https://analytics.unist.ac.kr/publication/kim-2020-maritime/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://analytics.unist.ac.kr/publication/kim-2020-maritime/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A practical approach to measuring the impacts of stockouts on demand</title>
       <link>https://analytics.unist.ac.kr/publication/kim-2019-practical/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/kim-2019-practical/</guid>
       <description></description>
     </item>
@@ -87,7 +87,7 @@
     <item>
       <title>Revealing household characteristics using connected home products</title>
       <link>https://analytics.unist.ac.kr/publication/kim-2019-revealing/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/kim-2019-revealing/</guid>
       <description></description>
     </item>
@@ -101,25 +101,25 @@
     </item>
     
     <item>
-      <title>An integrated holistic model of a complex process</title>
-      <link>https://analytics.unist.ac.kr/publication/kim-2017-integrated/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://analytics.unist.ac.kr/publication/kim-2017-integrated/</guid>
+      <title>Batch sequential minimum energy design with design-region adaptation</title>
+      <link>https://analytics.unist.ac.kr/publication/kim-2017-batch/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://analytics.unist.ac.kr/publication/kim-2017-batch/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Batch sequential minimum energy design with design-region adaptation</title>
-      <link>https://analytics.unist.ac.kr/publication/kim-2017-batch/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://analytics.unist.ac.kr/publication/kim-2017-batch/</guid>
+      <title>An integrated holistic model of a complex process</title>
+      <link>https://analytics.unist.ac.kr/publication/kim-2017-integrated/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://analytics.unist.ac.kr/publication/kim-2017-integrated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Early detection of vessel delays using combined historical and real-time information</title>
       <link>https://analytics.unist.ac.kr/publication/kim-2017-early/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/kim-2017-early/</guid>
       <description></description>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>Incorporation of engineering knowledge into the modeling process: a local approach</title>
       <link>https://analytics.unist.ac.kr/publication/kim-2017-incorporation/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/kim-2017-incorporation/</guid>
       <description></description>
     </item>
@@ -135,7 +135,7 @@
     <item>
       <title>A new metric of absolute percentage error for intermittent demand forecasts</title>
       <link>https://analytics.unist.ac.kr/publication/kim-2016-new/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/kim-2016-new/</guid>
       <description></description>
     </item>
@@ -143,7 +143,7 @@
     <item>
       <title>Ordinal classification of imbalanced data with application in emergency and disaster information services</title>
       <link>https://analytics.unist.ac.kr/publication/kim-2016-ordinal/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/kim-2016-ordinal/</guid>
       <description></description>
     </item>
@@ -151,7 +151,7 @@
     <item>
       <title>Adaptive combined space-filling and D-optimal designs</title>
       <link>https://analytics.unist.ac.kr/publication/kim-2015-adaptive/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Apr 2015 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/kim-2015-adaptive/</guid>
       <description></description>
     </item>
@@ -159,7 +159,7 @@
     <item>
       <title>Layers of experiments with adaptive combined design</title>
       <link>https://analytics.unist.ac.kr/publication/kim-2015-layers/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/kim-2015-layers/</guid>
       <description></description>
     </item>
@@ -167,7 +167,7 @@
     <item>
       <title>Optimization of a carbon dioxide-assisted nanoparticle deposition process using sequential experimental design with adaptive design space</title>
       <link>https://analytics.unist.ac.kr/publication/casciato-2012-optimization/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Feb 2012 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/casciato-2012-optimization/</guid>
       <description></description>
     </item>
@@ -181,17 +181,9 @@
     </item>
     
     <item>
-      <title>Experimental design methods for nano-fabrication processes</title>
-      <link>https://analytics.unist.ac.kr/publication/kim-2011-experimental/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://analytics.unist.ac.kr/publication/kim-2011-experimental/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A time prediction model of cursor movement with path constraints</title>
       <link>https://analytics.unist.ac.kr/publication/hong-2005-time/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Dec 2005 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/publication/hong-2005-time/</guid>
       <description></description>
     </item>

@@ -1,16 +1,16 @@
 ---
 title: "Maximum feasibility estimation"
-date: 2021-01-01
-publishDate: 2022-04-01T12:10:12.160229Z
-authors: ["Sungil Kim"]
+date: 2021-10-01
+#publishDate: 2022-04-01T12:10:12.160229Z
+authors: [Sungil Kim (2021), Information Sciences]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Information Sciences*"
+#publication: "*Information Sciences*"
 
 
 links: 
-- name: 'Information Sciences'
+#- name: 'Information Sciences'
 #   url: 
 url_pdf: ''
 url_code: 

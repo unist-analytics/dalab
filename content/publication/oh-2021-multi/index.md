@@ -1,16 +1,16 @@
 ---
 title: "Multi-channel Convolution Neural Network for Gas Mixture Classification"
-date: 2021-01-01
-publishDate: 2022-04-25T12:08:57.198429Z
-authors: ["YongKyung Oh", "Sungil Kim"]
+date: 2021-12-07
+#publishDate: 2022-04-25T12:08:57.198429Z
+authors: [YongKyung Oh and Sungil Kim (2021), 2021 International Conference on Data Mining Workshops (ICDMW)]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*2021 International Conference on Data Mining Workshops (ICDMW)*"
+#publication: "*2021 International Conference on Data Mining Workshops (ICDMW)*"
 
 
 links: 
-- name: 'ICDMW'
+#- name: 'ICDMW'
 #   url: 
 url_pdf: ''
 url_code: 

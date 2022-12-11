@@ -1,16 +1,16 @@
 ---
 title: "Maritime anomaly detection based on VAE-CUSUM monitoring system"
-date: 2020-01-01
+date: 2020-08-01
 publishDate: 2020-09-04T19:54:19.193926Z
-authors: ["Jaemin Park", "Sungil Kim"]
+authors: [Jaemin Park and Sungil Kim (2020), Journal of the Korean Institute of Industrial Engineers]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Journal of the Korean Institute of Industrial Engineers*"
+#publication: "*Journal of the Korean Institute of Industrial Engineers*"
 
 
 links: 
-- name: 'Journal of the Korean Institute of Industrial Engineers'
+#- name: 'Journal of the Korean Institute of Industrial Engineers'
 #   url: 
 url_pdf: ''
 url_code: 

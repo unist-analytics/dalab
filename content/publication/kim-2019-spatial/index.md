@@ -1,18 +1,18 @@
 ---
 title: "Spatial cluster detection in mobility networks: a copula approach"
 date: 2019-01-01
-publishDate: 2020-03-07T14:11:35.135879Z
-authors: ["Heeyoung Kim", "Rong Duan", "Sungil Kim", "Jaehwan Lee", "Guang-Qin Ma"]
+#publishDate: 2020-03-07T14:11:35.135879Z
+authors: [Heeyoung Kim, Rong Duan, Sungil Kim, Jaehwan Lee, and Guang-Qin Ma (2019), "Journal of the Royal Statistical Society: Series C"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*Journal of the Royal Statistical Society: Series C (Applied Statistics)*"
+#publication: "*Journal of the Royal Statistical Society: Series C (Applied Statistics)*"
 
 
 links: 
-- name: 'Journal of the Royal Statistical Society: Series C'
+# - name: 'Journal of the Royal Statistical Society: Series C'
 #   url: 
-url_pdf: ''
+url_pdf: https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssc.12307
 url_code: 
 url_dataset: ''
 url_poster: ''

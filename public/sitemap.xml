@@ -15,19 +15,19 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication-type/2/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/oh-2022-multi/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication_types/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/oh-2022-quant/</loc>
@@ -35,15 +35,15 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication-type/1/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/kim-2021-maximum/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/oh-2021-multi/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://analytics.unist.ac.kr/publication/kim-2021-maximum/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/oh-2021-simulation/</loc>
@@ -52,6 +52,14 @@
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/oh-2021-transfer/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://analytics.unist.ac.kr/publication/kim-2020-multiresolution/</loc>
+    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://analytics.unist.ac.kr/publication/kim-2020-maritime/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/tag/deep-learning/</loc>
@@ -94,12 +102,12 @@
     <lastmod>2020-03-10T19:03:27+09:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/kim-2020-maritime/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://analytics.unist.ac.kr/publication/kim-2019-practical/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/kim-2020-multiresolution/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://analytics.unist.ac.kr/publication/kim-2019-revealing/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/slides/</loc>
@@ -110,32 +118,28 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/kim-2019-practical/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/kim-2019-revealing/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://analytics.unist.ac.kr/publication/kim-2019-spatial/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/kim-2017-integrated/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>https://analytics.unist.ac.kr/publication/kim-2017-batch/</loc>
+    <lastmod>2017-11-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/kim-2017-batch/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <loc>https://analytics.unist.ac.kr/publication/kim-2017-integrated/</loc>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/kim-2017-early/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/kim-2017-incorporation/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://analytics.unist.ac.kr/publication/kim-2016-new/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/tag/astronomy/</loc>
@@ -162,27 +166,23 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/kim-2016-new/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://analytics.unist.ac.kr/publication/kim-2016-ordinal/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2016-03-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/kim-2015-adaptive/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-04-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/kim-2015-layers/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://analytics.unist.ac.kr/publication-type/6/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/casciato-2012-optimization/</loc>
+    <lastmod>2012-02-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://analytics.unist.ac.kr/publication-type/6/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -190,16 +190,8 @@
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://analytics.unist.ac.kr/publication-type/7/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/kim-2011-experimental/</loc>
-    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://analytics.unist.ac.kr/publication/hong-2005-time/</loc>
-    <lastmod>2005-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2005-12-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/admin/</loc>

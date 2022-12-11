@@ -1,8 +1,8 @@
 ---
 title: "Simulation-based Anomaly Detection in Nuclear Reactors"
 date: 2021-01-01
-publishDate: 2022-04-01T12:40:44.303936Z
-authors: ["YongKyung Oh", "Hanjoo Kim", "Deokjung Lee", "Sungil Kim"]
+#publishDate: 2022-04-01T12:40:44.303936Z
+authors: [YongKyung Oh, Hanjoo Kim, Deokjung Lee, and Sungil Kim (2021), Journal of the Korean Institute of Industrial Engineers]
 publication_types: ["2"]
 abstract: ""
 featured: false
@@ -10,7 +10,7 @@ publication: "*Journal of the Korean Institute of Industrial Engineers*"
 
 
 links: 
-- name: 'Journal of the Korean Institute of Industrial Engineers'
+# - name: 'Journal of the Korean Institute of Industrial Engineers'
 #   url: 
 url_pdf: ''
 url_code: 
