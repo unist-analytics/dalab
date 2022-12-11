@@ -18,6 +18,8 @@ featured: false
 # publication: "*Electronic Research Archive*"
 
 
+
+
 links: 
 # - name: ''
 #   url: 
@@ -37,7 +39,8 @@ url_video: ''
 image:
   placement: 1
   caption: 
-  focal_point: Left
+  focal_point: Top
   preview_only: true
+
 ---
 

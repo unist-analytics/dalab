@@ -5,6 +5,7 @@ publishDate: 2022-04-25T12:08:57.188818Z
 authors: [JuYeong Lee, JiIn Kwak, YongKyung Oh and Sungil Kim (2022), "Transportmetrica B : Transport Dynamics"]
 
 
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -39,5 +40,6 @@ image:
   caption: 
   focal_point: Left
   preview_only: true
+  image.Height: 2000
 ---
 

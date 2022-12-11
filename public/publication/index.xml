@@ -5,12 +5,20 @@
     <link>https://analytics.unist.ac.kr/publication/</link>
       <atom:link href="https://analytics.unist.ac.kr/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://analytics.unist.ac.kr/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://analytics.unist.ac.kr/publication/</link>
     </image>
+    
+    <item>
+      <title>Time Delay Estimation of Traffic Congestion Propagation due to Accidents based on Statistical Causality</title>
+      <link>https://analytics.unist.ac.kr/publication/oh-2023-time/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://analytics.unist.ac.kr/publication/oh-2023-time/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multichannel Convolution Neural Network for Gas Mixture Classification</title>
