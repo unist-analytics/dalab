@@ -1,0 +1,16 @@
+# Theme metadata
+name = "unist"
+
+[light]
+  # Primary
+  primary = "#44c1c4"
+
+  # Menu
+  menu_primary = "#001b54"
+  menu_text = "#44c1c4"
+  menu_text_active = "#fff"
+  menu_title = "#44c1c4"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"

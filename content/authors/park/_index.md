@@ -21,9 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Deep Learning and Data Mining
-- Maritime Logistics
-- Quality Engineering and Management
+- "First position: THYROSCOPE Inc."
 
 education:
   courses:

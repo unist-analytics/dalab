@@ -21,7 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Optimization, Deep Learning, Machine Learning, Data analytics and Data mining, Logistics and Transportation
+- "First position: LG Electronics"
 
 education:
   courses:

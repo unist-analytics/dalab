@@ -21,9 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Data mining
-- Smart home data analysis
-- Unsupervised learning
+- "First position: POSCO"
 
 education:
   courses:

@@ -21,9 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Supervised learning
-- Data quality
-- Machine learning and Data mining
+- "First position: THYROSCOPE Inc."
 
 education:
   courses:

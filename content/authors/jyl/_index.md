@@ -21,10 +21,8 @@ organizations:
 bio: 
 
 interests:
-- Industrial Statistics
-- Machine learning and Deep Learning
-- Reinforcement learning
-- Traffic congestion propagation 
+- "First position: QRAFT"
+
 
 education:
   courses:
