@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jaemin Park
+title: Jaemin Park
 
 # Username (this should match the folder name)
 authors:

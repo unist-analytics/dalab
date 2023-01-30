@@ -1,6 +1,6 @@
 ---
 # Display name
-name: YongKyung Oh
+title: YongKyung Oh
 
 # Username (this should match the folder name)
 authors:

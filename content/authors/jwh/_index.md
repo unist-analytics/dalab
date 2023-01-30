@@ -1,6 +1,6 @@
-﻿---
+---
 # Display name
-name: JongHwan Moon
+title: JongHwan Moon
 
 # Username (this should match the folder name)
 authors:

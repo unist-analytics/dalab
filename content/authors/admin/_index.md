@@ -1,6 +1,10 @@
 ---
 # Display name
-name: Sungil Kim
+title: Sungil Kim
+
+# Full name (for SEO)
+first_name: Sungil
+last_name: Kim
 
 # Username (this should match the folder name)
 authors:

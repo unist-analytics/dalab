@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Byungkook Koo
+title: Byungkook Koo
 
 # Username (this should match the folder name)
 authors:

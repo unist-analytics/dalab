@@ -1,6 +1,6 @@
-﻿---
+---
 # Display name
-name: Gyeongjun Kim
+title: Gyeongjun Kim
 
 # Username (this should match the folder name)
 authors:

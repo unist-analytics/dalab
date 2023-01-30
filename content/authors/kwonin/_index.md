@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kwonin Yoon
+title: Kwonin Yoon
 
 # Username (this should match the folder name)
 authors: 

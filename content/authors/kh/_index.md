@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Giheon Koh
+title: Giheon Koh
 
 # Username (this should match the folder name)
 authors:
