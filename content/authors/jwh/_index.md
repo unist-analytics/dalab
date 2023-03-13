@@ -21,9 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Statistical Data Mining
-- Dimensionality Reduction
-- Feature selection and Feature extraction
+- "First position: LG Electronics"
 
 education:
   courses:
@@ -55,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 His research interests are Statistical Data Mining, Dimensionality Reduction and Business analytics.
 Especially, He is interested in Feature selection that find significant variables among many variables.
