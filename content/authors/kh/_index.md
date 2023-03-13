@@ -20,9 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Statistical computing, Data quality, and Machine learning.
 interests:
-- Statistical computing and Data analysis
-- Data quality
-- Supervised learning
+- "First position: LG Display"
 
 education:
   courses:
@@ -57,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Giheon Koh is a MS student in Graduate School of Artificial Intelligence at the Ulsan National Institute of Science and Technology (UNIST). 

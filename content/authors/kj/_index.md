@@ -21,8 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Industrial Statistics
-- Machine learning and Data mining
+- "First position: CJ Logistics"
 
 
 education:
@@ -58,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 My research interests include Industrial Statistics and Data Analytics, Machine learning and Data mining.
 
