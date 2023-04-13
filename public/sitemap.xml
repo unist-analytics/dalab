@@ -211,5 +211,8 @@
   </url><url>
     <loc>https://analytics.unist.ac.kr/categories/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://analytics.unist.ac.kr/publication/oh-2023-sensor/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
