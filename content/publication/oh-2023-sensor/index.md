@@ -1,6 +1,6 @@
 ---
 title: "Sensor Drift Compensation for Gas Mixture Classification in Batch Experiments"
-date: 2023-4-14
+date: 2023-4-13
 # publishDate: 2022-04-25T12:08:57.188818Z
 authors: [YongKyung Oh, Juhui Lee, and Sungil Kim (2023), "Quality and Reliability Engineering International"]
 
