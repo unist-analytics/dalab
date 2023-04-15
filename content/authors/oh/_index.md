@@ -59,6 +59,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
+
 ---
 YongKyung Oh is a Ph.D. candidate at UNIST, majoring in Management Engineering. He earned his master's degree in management of technology from UNIST. His research interest is machine learning and deep learning application for industrial data.
 
