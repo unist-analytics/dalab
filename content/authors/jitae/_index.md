@@ -21,9 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Industrial Stastics
-- Machine learning and Deep learning
-- Data Mining for Quality Control 
+
 
 education:
   courses:
