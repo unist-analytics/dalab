@@ -14,24 +14,28 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://analytics.unist.ac.kr/publication-type/2/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://analytics.unist.ac.kr/publication_types/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://analytics.unist.ac.kr/publication/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://analytics.unist.ac.kr/publication/oh-2023-sensor/</loc>
+    <lastmod>2023-04-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://analytics.unist.ac.kr/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://analytics.unist.ac.kr/publication-type/2/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://analytics.unist.ac.kr/publication_types/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/publication/oh-2023-time/</loc>
@@ -210,9 +214,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://analytics.unist.ac.kr/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://analytics.unist.ac.kr/publication/oh-2023-sensor/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Sensor Drift Compensation for Gas Mixture Classification in Batch Experiments</title>
+      <link>https://analytics.unist.ac.kr/publication/oh-2023-sensor/</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://analytics.unist.ac.kr/publication/oh-2023-sensor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>the website builder for Hugo</title>
       <link>https://analytics.unist.ac.kr/post/getting-started/</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
@@ -488,14 +496,6 @@ $$&lt;/p&gt;
       <link>https://analytics.unist.ac.kr/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://analytics.unist.ac.kr/admin/config.yml</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sensor Drift Compensation for Gas Mixture Classification in Batch Experiments</title>
-      <link>https://analytics.unist.ac.kr/publication/oh-2023-sensor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://analytics.unist.ac.kr/publication/oh-2023-sensor/</guid>
       <description></description>
     </item>
     

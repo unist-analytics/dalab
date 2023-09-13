@@ -21,10 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Deep Learning
-- Data Analytics and Data mining
-- Optimization
-- Transportation
+- "First position: LG Electronics"
 
 education:
   courses:
@@ -62,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 I'm interested in the Data Analytics in industry data, especially in traffic congestion problem. Also interested in studying Deep learning and Machine learning
