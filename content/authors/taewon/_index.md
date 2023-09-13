@@ -25,11 +25,10 @@ interests:
 
 
 education: 
-  courses: Bachelor
-  - course: Department of Mechanical Systems Engineering
+  courses: 
+  - course: BSc in Mechanical Systems Engineering
     institution: Korea Maritime University
     year: 2016
-
 
 
 
@@ -43,13 +42,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:이메일주소".
 - icon: github
   icon_pack: fab
-  link: 깃허브주소
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: 구글스칼라주소
+  link: 
 #- icon: cv
 #  icon_pack: ai
-#  link: files/cv파일이 있으면 보내주고...
+#  link: 
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
