@@ -20,8 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: already employed
 
-interests: Data analytics, Anomaly detection, Quality Engineering and Management, Data Mining for Quality Control
-- 관심분야 
+interests: 
+- Data analytics, Anomaly detection, Quality Engineering and Management, Data Mining for Quality Control
+
 
 education: 
   courses: Bachelor
