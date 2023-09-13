@@ -21,15 +21,13 @@ organizations:
 bio: 
 
 interests:
-- Business Intelligence using machine learning
-- Data analytics based on statistical modeling
-- Data Augmentation using generative model
+- "First position: Postdoc at UCLA"
 
 education:
   courses:
   - course: PhD in Management Engineering
     institution: Ulsan National Institute of Science and Technology(UNIST)
-    year: 2018~
+    year: 2023
   - course: MS in Technology and Innovation Management
     institution: Ulsan National Institute of Science and Technology(UNIST)
     year: 2017
@@ -58,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 
 ---
 YongKyung Oh is a Ph.D. candidate at UNIST, majoring in Management Engineering. He earned his master's degree in management of technology from UNIST. His research interest is machine learning and deep learning application for industrial data.
