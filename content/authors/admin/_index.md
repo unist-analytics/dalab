@@ -78,9 +78,9 @@ Our research focuses on development of novel statistical methods for solving com
 Our team pursues leading-edge research in the field of data science and business analytics with industry, government, and community partners. Our research can be characterized by three aspects: i) statistics as a research methodology, ii) motivation from real data, and iii) applications to industry.
 
 
-The Principal Investigator, Sungil Kim, Ph.D., is an associate professor in the Department of Industrial Engineering. His research interests include industrial statistics and data analytics, quality engineering and management, and machine learning and data mining.
-He has served in a number of leadership positions at UNIST, domestically, and internationally. 
-For more details, you can find his vitae.
+Dr. Sungil Kim is an Associate Professor in the Department of Industrial Engineering at the Ulsan National Institute of Science and Technology (UNIST). UNIST is one of the leading science and technology universities in South Korea, located in the heart of Korea’s largest industrial city, Ulsan. Dr. Kim has dedicated himself to tackling modern challenges in quality engineering within the ongoing era of AI transformation. These challenges include issues such as sensor drift, inefficient data representation, and class imbalances. His works have made significant contributions by effectively addressing these challenges through the utilization of sensor data and real-time log data, ultimately offering practical solutions to real-world problems. 
+
+Dr. Kim earned his Ph.D. degree in Industrial Engineering at the Georgia Institute of Technology in 2011. He has served as an Area Editor of Computers & Industrial Engineering in the area of Statistics, Quality, Reliability & Maintenance. 
 
 
 
