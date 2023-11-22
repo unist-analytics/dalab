@@ -73,12 +73,10 @@ user_groups:
 ---
 
 
-Welcome to the Data Analytics Lab at the Ulsan National Institute of Science and Technology (UNIST). 
-Our research focuses on development of novel statistical methods for solving complex engineering problems.
-Our team pursues leading-edge research in the field of data science and business analytics with industry, government, and community partners. Our research can be characterized by three aspects: i) statistics as a research methodology, ii) motivation from real data, and iii) applications to industry.
+Welcome to the Data Analytics Lab at the Ulsan National Institute of Science and Technology (UNIST). UNIST is one of the leading science and technology universities in South Korea, located in the heart of Korea’s largest industrial city, Ulsan. Our research focuses on development of novel statistical methods for solving complex engineering problems. Our team pursues leading-edge research in the field of data science and business analytics with industry, government, and community partners. Our research can be characterized by three aspects: i) statistics as a research methodology, ii) motivation from real data, and iii) applications to industry.
 
 
-Dr. Sungil Kim is an Associate Professor in the Department of Industrial Engineering at the Ulsan National Institute of Science and Technology (UNIST). UNIST is one of the leading science and technology universities in South Korea, located in the heart of Korea’s largest industrial city, Ulsan. Dr. Kim has dedicated himself to tackling modern challenges in quality engineering within the ongoing era of AI transformation. These challenges include issues such as sensor drift, inefficient data representation, and class imbalances. His works have made significant contributions by effectively addressing these challenges through the utilization of sensor data and real-time log data, ultimately offering practical solutions to real-world problems. 
+Dr. Sungil Kim is an Associate Professor in the Department of Industrial Engineering at the Ulsan National Institute of Science and Technology (UNIST). Dr. Kim has dedicated himself to tackling modern challenges in quality engineering within the ongoing era of AI transformation. These challenges include issues such as sensor drift, inefficient data representation, and class imbalances. His works have made significant contributions by effectively addressing these challenges through the utilization of sensor data and real-time log data, ultimately offering practical solutions to real-world problems. 
 
 Dr. Kim earned his Ph.D. degree in Industrial Engineering at the Georgia Institute of Technology in 2011. He has served as an Area Editor of Computers & Industrial Engineering in the area of Statistics, Quality, Reliability & Maintenance. 
 
