@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Yongmin Kim
+title: Yongmin Kim
 
 # Username (this should match the folder name)
 authors: 
