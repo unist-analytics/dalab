@@ -1,5 +1,5 @@
 ---
-title: "Domain knowledge-informed functional outlier detection in the refrigerator inspection lanes"
+title: "Domain Knowledge-Informed Functional Outlier Detection in the Refrigerator Inspection Lanes"
 date: 2024-02-10
 # publishDate: 2022-04-25T12:08:57.188818Z
 authors: [Jonghwan Mun, Jitae Yoo, Heesun Kim, Nayi Ryu, and Sungil Kim (2024), "Computers & Industrial Engineering"]
@@ -23,7 +23,7 @@ featured: false
 links: 
 # - name: ''
 #   url: 
-url_pdf: https://www.aimspress.com/article/doi/10.3934/era.2023034?viewType=HTML
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0360835224000573?dgcid=author
 url_code: 
 url_dataset: ''
 url_poster: ''
