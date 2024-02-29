@@ -1,8 +1,8 @@
 ---
-title: "Domain Knowledge-Informed Functional Outlier Detection in the Refrigerator Inspection Lanes"
-date: 2024-02-29
+title: "Grid-Based Bayesian Bootstrap Approach for Real-Time Detection of Abnormal Vessel Behaviors from AIS Data in Maritime Logistics"
+date: 2023-11-07
 # publishDate: 2022-04-25T12:08:57.188818Z
-authors: [Jonghwan Mun, Jitae Yoo, Heesun Kim, Nayi Ryu, and Sungil Kim (2024), "Computers & Industrial Engineering"]
+authors: [YongKyung Oh and Sungil Kim (2023), "IEEE Transactions on Automation Science and Engineering"]
 
 
 # Publication type.
@@ -23,7 +23,7 @@ featured: false
 links: 
 # - name: ''
 #   url: 
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0360835224000573?dgcid=author
+url_pdf: https://ieeexplore.ieee.org/document/10311542
 url_code: 
 url_dataset: ''
 url_poster: ''
