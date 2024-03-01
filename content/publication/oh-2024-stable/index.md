@@ -1,5 +1,5 @@
 ---
-title: "Stable neural stochastic differential equations for irregular time series classification"
+title: "Stable Neural Stochastic Differential Equations for Irregular Time Series Classification"
 date: 2024-03-01
 # publishDate: 2022-04-25T12:08:57.188818Z
 authors: [YongKyung Oh, Dongyoung Lim, and Sungil Kim (2024), "ICLR (spotlight)"]
