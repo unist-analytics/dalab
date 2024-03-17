@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Heesun Kim
+title: Seongjin Kim
 
 # Username (this should match the folder name)
 authors: 
-- hee
+- ksj
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,13 +21,15 @@ organizations:
 bio: 
 
 interests:
-- "First position: LG Electronics"
+- Anomaly Detection, Time Series Forecasting, Deep Learning, Data Science
 
 education:
   courses:
-  - course: BSc in electronics, communication and computer engineering
-    institution: Hanyang University
-    year: 2012
+  - course: BS in Industrial Engineering
+    institution: UNIST
+    year: 2024
+
+
 
 
 # Social/Academic Networking
@@ -37,32 +39,26 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:heesun0718@unist.ac.kr".
-#- icon: github
-#  icon_pack: fab
-#  link: 깃허브주소
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: 구글스칼라주소
-#- icon: cv
-#  icon_pack: ai
-#  link: files/cv파일이 있으면 보내주고...
+  link: mailto:kimsj7597@unist.ac.kr  # For a direct email link, use "mailto:이메일주소".
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Sicari1
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=jt983zsAAAAJ&hl=ko
+- icon: cv
+  icon_pack: ai
+  link: authors/ksj/cv.pdf
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: kimsj7597@unist.ac.kr
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Researchers
 ---
 
-I have been working for LG Electronics, since 2012. 
-I've mainly conducted research into the control of Home appliance system based on machine learning with experimental data (R&D Engineer)
-and customer behavior for using Home appliance(Data analyst).
-I'm interested in Data Mining and Statistical Analysis and Business Intelligence and Strategy based on data.
-
-
-
+Hello I'm Seongjin Kim from UNIST DA lab. I'm interested in Deep Anomaly Detection and Time series forecasting. It is now challenging and hard task for me but I believe someday it'll be solved. I love to talk and meet up and help people. Feel free to contact me!
 

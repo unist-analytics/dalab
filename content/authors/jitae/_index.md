@@ -21,6 +21,8 @@ organizations:
 bio: 
 
 interests:
+- "First position: LX Hausys"
+
 
 
 education:
