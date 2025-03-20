@@ -56,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Hello, my name is Jae Hun Cho. I hold a Bachelor's degree in Information and Communication Engineering from Gyeongsang National University, and I am currently attending in AI graduate school at the Ulsan National Institute of Science and Technology(UNIST). When I was in college, I had a project to find a disease called epiretinal membrane using ophthalmic OCT images and a project to create an image using ophthalmic retinal images using generation models. I'm interested in medical image analysis, Machine learning and Deep learning, generative model, Computer Vision, and Object Detection.
