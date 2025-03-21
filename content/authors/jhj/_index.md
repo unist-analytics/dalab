@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MS Student 
+role: Combined Master-Doctor
 
 # Organizations/Affiliations
 organizations:
